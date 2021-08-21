@@ -1,4 +1,4 @@
-    ![til](assets/hi-gif.gif)
+![til](./assets/hi-gif.gif)
 
     About me
 
