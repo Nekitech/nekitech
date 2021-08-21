@@ -1,4 +1,4 @@
-![til](./assets/hi-gif.gif)
+![HEADER](https://github.com/Nekitech/nekitech/blob/main/assets/hi-gif.gif)
 
     About me
 
