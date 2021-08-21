@@ -1,5 +1,4 @@
-![HEADER](https://github.com/Nekitech/nekitech/blob/main/assets/hi-gif.gif)# ***About me***
-## **I'm a beginner developer, my goal is Junior Frontend Developer. I do the layout of the Landings, the study of JavaScript, its frameworks, Python.**
+![HEADER](https://github.com/Nekitech/nekitech/blob/main/assets/hi-gif.gif) **I'm a beginner developer, my goal is Junior Frontend Developer. I do the layout of the Landings, the study of JavaScript, its frameworks, Python.**
 <br>
 
 # ***Languages & Tools***
