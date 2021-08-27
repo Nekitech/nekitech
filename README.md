@@ -12,9 +12,10 @@
 ![GULP](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp)
 ![SASS](https://img.shields.io/badge/SASS/SCSS-000?style=for-the-badge&logo=sass)
 ![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python)
+# Some stats & Statistics
+<a href='https://www.codewars.com/users/Boriel'>![](https://www.codewars.com/users/Boriel/badges/large)</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekitech&show_icons=true&theme=dark&icon_color=f5e7ff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitech&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href='https://www.codewars.com/users/Boriel'>![](https://www.codewars.com/users/Boriel/badges/large)</a>
