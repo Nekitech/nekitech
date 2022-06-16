@@ -10,6 +10,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=javaScript)
 ![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react)
 ![GULP](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp)
+![PUG](https://img.shields.io/badge/PUG-000?style=for-the-badge&logo=pug)
 ![SASS](https://img.shields.io/badge/SASS/SCSS-000?style=for-the-badge&logo=sass)
 
 # Some stats & Statistics
