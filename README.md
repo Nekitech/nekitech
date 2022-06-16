@@ -11,7 +11,7 @@
 ![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react)
 ![GULP](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp)
 ![SASS](https://img.shields.io/badge/SASS/SCSS-000?style=for-the-badge&logo=sass)
-![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python)
+
 # Some stats & Statistics
 <a href='https://www.codewars.com/users/Boriel'>![](https://www.codewars.com/users/Boriel/badges/large)</a>
 
