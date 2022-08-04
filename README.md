@@ -1,7 +1,7 @@
 ![HEADER](https://github.com/Nekitech/nekitech/blob/main/assets/hi-gif-4.gif)
 
 # About me
-## **I'm a beginner developer, my goal is Junior Frontend Developer. I do the layout of the Landings, the study of JavaScript, its frameworks, Python.**
+## **I'm a beginner developer, my goal is Junior Frontend Developer. I do the layout of the Landings, the study of JavaScript, its frameworks. At the moment I am also doing pet projects on React, Redux + backend on ExpressJS, MongoDB.**
 <br>
 
 # Languages & Tools
