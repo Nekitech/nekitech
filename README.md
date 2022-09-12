@@ -15,7 +15,7 @@
 ![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/REDUX-000?style=for-the-badge&logo=redux)
 ![MONGODB](https://img.shields.io/badge/MONGODB-000?style=for-the-badge&logo=mongodb)
-![NEXTJS](https://img.shields.io/badge/NEXTJS-000?style=for-the-badge&logo=nextjs)
+![NEXT](https://img.shields.io/badge/NEXT-000?style=for-the-badge&logo=next)
 
 # Some stats & Statistics
 <a href='https://www.codewars.com/users/Boriel'>![](https://www.codewars.com/users/Boriel/badges/large)</a>
