@@ -11,7 +11,7 @@
 ![GULP](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp)
 ![PUG](https://img.shields.io/badge/PUG-000?style=for-the-badge&logo=pug)
 ![SASS](https://img.shields.io/badge/SASS/SCSS-000?style=for-the-badge&logo=sass)
-/n
+  
 ![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/REDUX-000?style=for-the-badge&logo=redux)
 ![MONGODB](https://img.shields.io/badge/MONGODB-000?style=for-the-badge&logo=mongodb)
