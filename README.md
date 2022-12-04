@@ -24,4 +24,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitech&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nekitech&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
