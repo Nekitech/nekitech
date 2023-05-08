@@ -14,7 +14,7 @@
   
 ![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/REDUX-000?style=for-the-badge&logo=redux)
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-000?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
