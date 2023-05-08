@@ -13,9 +13,9 @@
 ![SASS](https://img.shields.io/badge/SASS/SCSS-000?style=for-the-badge&logo=sass)
   
 ![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react)
-![REDUX](https://img.shields.io/badge/REDUX-000?style=for-the-badge&logo=redux)
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-000?style=for-the-badge&logo=typescript&logoColor=white)
-![GRAPHQL](https://img.shields.io/badge/GRAPHQL-000?style=for-the-badge&logo=GRAPHQL)
+![REDUX](https://img.shields.io/badge/REDUX-PURPLE?style=for-the-badge&logo=redux)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-BLUE?style=for-the-badge&logo=typescript&logoColor=white)
+![GRAPHQL](https://img.shields.io/badge/GRAPHQL-PINK?style=for-the-badge&logo=GRAPHQL)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 # Some stats & Statistics
