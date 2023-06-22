@@ -22,7 +22,7 @@
 # Some stats & Statistics
 <a href='https://www.codewars.com/users/Boriel'>![](https://www.codewars.com/users/Boriel/badges/large)</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekitech&show_icons=true&theme=dark&icon_color=f5e7ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekitech&theme=dark&icon_color=f5e7ff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitech&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
