@@ -18,7 +18,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-000?style=for-the-badge&logo=POSTGRESQL)
 
-![REACT_NATIVE](<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>)
+<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 # Some stats & Statistics
 <a href='https://www.codewars.com/users/Boriel'>![](https://www.codewars.com/users/Boriel/badges/large)</a>
