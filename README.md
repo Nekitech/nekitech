@@ -1,18 +1,25 @@
 ![HEADER](https://github.com/Nekitech/nekitech/blob/main/assets/hi-gif-4.gif)
 
 # Languages & Tools
+# Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JAVASCRIPT](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=javaScript)
-![GULP](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp)
-![PUG](https://img.shields.io/badge/PUG-000?style=for-the-badge&logo=pug)
-![SASS](https://img.shields.io/badge/SASS/SCSS-000?style=for-the-badge&logo=sass)
-  
-![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react)
-![REDUX](https://img.shields.io/badge/REDUX-000?style=for-the-badge&logo=redux)
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-000?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-000?style=for-the-badge&logo=POSTGRESQL)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![AnimeJS](https://img.shields.io/badge/AnimeJS-000?style=for-the-badge&logo=anime.js)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-000?style=for-the-badge)
+
 
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
