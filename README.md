@@ -1,6 +1,8 @@
 ![HEADER](https://github.com/Nekitech/nekitech/blob/main/assets/hi-gif-4.gif)
 
-# Languages & Tools
+# About me
+I have been working in web development since 2021, and from 2023 I have worked in companies as a web developer. Over the past year, I have been developing my own projects and contributing to open-source projects.
+
 # Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
