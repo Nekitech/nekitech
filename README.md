@@ -1,27 +1,28 @@
 ![HEADER](https://github.com/Nekitech/nekitech/blob/main/assets/hi-gif-4.gif)
 
-# About me
-I have been working in web development since 2021, and from 2023 I have worked in companies as a web developer. Over the past year, I have been developing my own projects and contributing to open-source projects.
+# О себе
+Занимаюсь веб-разработкой с 2021 года, с 2023 - работал в компаниях в качестве веб-разработчика. Последний год разрабатываю свои проекты и работаю над опен-сорс проектами
 
-## Projects
+## О себе / Проекты
 
-- **2022:** Participated in the International Digital Olympiad "Volga-IT’22" in the discipline *JavaScript Programming*.  
-  [GitHub repository](https://github.com/Nekitech/volgaIT2022-javascript)
+- **2022:** Выполнял задание в рамках Международной цифровой олимпиады «Волга-IT’22» по дисциплине *Программирование на языке JavaScript*.  
+  [GitHub репозиторий](https://github.com/Nekitech/volgaIT2022-javascript)
 
-- **2023:** Implemented a small **link shortener** application as a test task for LLC "MIR CIFRY".  
-  [GitHub repository](https://github.com/Nekitech/link_shortener)
+- **2023:** Реализовал небольшое приложение **сокращатель ссылок** в качестве тестового задания в ООО "МИР ЦИФРЫ".  
+  [GitHub репозиторий](https://github.com/Nekitech/link_shortener)
 
-- **Since May 2024:** Contributing to the Open Source project **Yantrix** — a platform for creating applications by generating code based on declarative logic descriptions via mermaid diagrams.  
-  [GitHub repository](https://github.com/tfcp68/yantrix)
+- **С мая 2024:** Участвую в Open Source проекте **Yantrix** — платформе по созданию приложений через генерацию кода на основе описания декларативной логики через mermaid-диаграммы.  
+  [GitHub репозиторий](https://github.com/tfcp68/yantrix)
 
-- Also developing **wizard-gen** — a utility for quickly generating website structures, producing site content via LLM integration, and storing content in Google Sheets.  
-  [GitHub repository](https://github.com/Nekitech/wizard-gen)
+- Также разрабатываю **wizard-gen** — утилиту для быстрой генерации структуры сайта, создания контента с помощью интеграции с LLM и сохранения данных в Google Sheets.  
+  [GitHub репозиторий](https://github.com/Nekitech/wizard-gen)
 
-- **2025:** Graduated with a Bachelor's degree in *Applied Informatics*. My thesis was dedicated to creating an **online debugger for Jison** — a parser generator for context-free grammars. I plan to continue its development.  
-  [Project demo](http://jison-lens.elysium-x.online/) | [GitHub repository](https://github.com/Nekitech/jison-lens)
+- **2025:** Закончил бакалавриат по направлению *Прикладная информатика*. Диплом посвящён созданию **онлайн-дебаггера для Jison** — генератора парсеров для контекстно-свободных грамматик. Планирую продолжить его доработку.  
+  [Демо проекта](http://jison-lens.elysium-x.online/) | [GitHub репозиторий](https://github.com/Nekitech/jison-lens)
 
-- Additionally, as part of extra education in *Big Data Fundamentals*, I implemented an **individual project — a personalized movie recommendation system**.  
-  [GitHub repository](https://github.com/Nekitech/tinder-film)
+- Также в рамках дополнительного образования по направлению *Основы работы с большими данными* реализовал индивидуальный проект — **систему персональных рекомендаций фильмов**.  
+  [GitHub репозиторий](https://github.com/Nekitech/tinder-film)
+
 
 # Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
