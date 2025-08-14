@@ -3,7 +3,7 @@
 # О себе
 Занимаюсь веб-разработкой с 2021 года, с 2023 - работал в компаниях в качестве веб-разработчика. Последний год разрабатываю свои проекты и работаю над опен-сорс проектами
 
-## О себе / Проекты
+## Мои проекты
 
 - **2022:** Выполнял задание в рамках Международной цифровой олимпиады «Волга-IT’22» по дисциплине *Программирование на языке JavaScript*.  
   [GitHub репозиторий](https://github.com/Nekitech/volgaIT2022-javascript)
@@ -24,7 +24,7 @@
   [GitHub репозиторий](https://github.com/Nekitech/tinder-film)
 
 
-# Languages & Tools
+# Языки и инструменты
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -45,6 +45,6 @@
 
 
 
-# Some stats & Statistics
+# Статистика GitHub
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nekitech&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
