@@ -21,7 +21,7 @@
   [Демо проекта](http://jison-lens.elysium-x.online/) | [GitHub репозиторий](https://github.com/Nekitech/jison-lens)
 
 - Также в рамках дополнительного образования по направлению *Основы работы с большими данными* реализовал индивидуальный проект — **систему персональных рекомендаций фильмов**.  
-  [GitHub репозиторий](https://github.com/Nekitech/tinder-film)
+ [Демо проекта](http://193.23.218.42:4173/login) | [GitHub репозиторий](https://github.com/Nekitech/tinder-film)
 
 
 # Языки и инструменты
