@@ -1,12 +1,5 @@
 ![HEADER](https://github.com/Nekitech/nekitech/blob/main/assets/hi-gif-4.gif)
 
-# About me
-### **I'm a beginner developer, my goal is Middle Frontend Developer. I do the layout of the Landings, the study of JavaScript, its frameworks. At the moment I am also doing pet projects on React, Redux + backend on ExpressJS, MongoDB.**
-<br>
-
-## ~~Road to Junior Frontend Developer~~
-## Road to Middle Frontend Developer
-
 # Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
