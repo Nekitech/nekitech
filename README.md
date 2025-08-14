@@ -24,10 +24,5 @@ I have been working in web development since 2021, and from 2023 I have worked i
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react"/>
 
 # Some stats & Statistics
-<a href='https://www.codewars.com/users/Boriel'>![](https://www.codewars.com/users/Boriel/badges/large)</a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekitech&theme=dark&icon_color=f5e7ff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitech&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nekitech&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
