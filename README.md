@@ -1,13 +1,13 @@
 <div align="center">
 
-### Frontend Engineer · React / TypeScript · Frankfurt
+### Frontend Engineer · React / TypeScript 
 
 [![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,docker,linux)](https://skillicons.dev)
 
 </div>
 
 Веб-разработка с 2021, коммерческая — с 2023. Собственные продукты и open source.
-Продуктовый фронтенд на TS/React, монорепы, self-hosted инфраструктура (NixOS).
+Продуктовый фронтенд на TS/React
 
 #### Проекты
 
