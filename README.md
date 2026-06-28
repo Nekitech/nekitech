@@ -11,10 +11,10 @@
 
 #### Проекты
 
-- **[Opportunity Hub](https://opportunity.nekado.dev)** — агрегатор грантов и стажировок, в проде.
-- **[Yantrix](https://github.com/tfcp68/yantrix)** — open-source кодоген из FSM-диаграмм (DSL). Контрибьютор (PR #60, #61).
-- **[jison-lens](https://github.com/Nekitech/jison-lens)** — онлайн-дебаггер для Jison. Дипломная работа.
-- **[tinder-film](https://github.com/Nekitech/tinder-film)** — рекомендательная система фильмов.
+- **[Opportunity Hub](https://opportunity.nekado.dev)** — агрегатор грантов и стажировок
+- **[Yantrix](https://github.com/tfcp68/yantrix)** — open-source кодоген из FSM-диаграмм (DSL)
+- **[jison-lens](https://github.com/Nekitech/jison-lens)** — онлайн-дебаггер для Jison. Дипломная работа
+- **[tinder-film](https://github.com/Nekitech/tinder-film)** — рекомендательная система фильмов
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nekitech&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=issues" height="150" />
